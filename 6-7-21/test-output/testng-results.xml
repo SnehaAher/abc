@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-06T16:51:41 PDT" name="Default suite" finished-at="2021-07-06T16:52:27 PDT" duration-ms="46340">
+    <groups>
+    </groups>
+    <test started-at="2021-07-06T16:51:41 PDT" name="Default test" finished-at="2021-07-06T16:52:27 PDT" duration-ms="46340">
+      <class name="DataProvider.DemoWebShop">
+        <test-method is-config="true" signature="m2()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:51:36 PDT" name="m2" finished-at="2021-07-06T16:51:41 PDT" duration-ms="4673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:51:41 PDT" name="m3" finished-at="2021-07-06T16:51:45 PDT" duration-ms="3929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:51:45 PDT" name="login" data-provider="logindata" finished-at="2021-07-06T16:51:54 PDT" duration-ms="9246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[snehalaher11596@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123snehal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:51:54 PDT" name="m3" finished-at="2021-07-06T16:51:55 PDT" duration-ms="1085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:51:55 PDT" name="login" data-provider="logindata" finished-at="2021-07-06T16:52:01 PDT" duration-ms="5878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sneh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[321snehal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:01 PDT" name="m3" finished-at="2021-07-06T16:52:02 PDT" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:02 PDT" name="login" data-provider="logindata" finished-at="2021-07-06T16:52:10 PDT" duration-ms="7556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WebAs@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123AshuA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:10 PDT" name="m3" finished-at="2021-07-06T16:52:11 PDT" duration-ms="1259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:11 PDT" name="login" data-provider="logindata" finished-at="2021-07-06T16:52:19 PDT" duration-ms="7371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Webport@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Web@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="m3()[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:19 PDT" name="m3" finished-at="2021-07-06T16:52:20 PDT" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:DataProvider.DemoWebShop@6af93788]" started-at="2021-07-06T16:52:20 PDT" name="login" data-provider="logindata" finished-at="2021-07-06T16:52:27 PDT" duration-ms="7341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[webxyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Xyz@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- DataProvider.DemoWebShop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
